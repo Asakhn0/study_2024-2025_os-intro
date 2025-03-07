@@ -27,7 +27,7 @@ header-includes:
 
 # Информация
 
-## Преподователь
+## Преподаватель
 
 :::::::::::::: {.columns align=center}
 ::: {.column width="70%"}
